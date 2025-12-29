@@ -61,15 +61,3 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilasyukrii&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilasyukrii&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>“Clarity, rigor, and impact — that's how I build data stories.”</i>
-</div>
