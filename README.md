@@ -37,18 +37,12 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
 ### SKILLS
 ### SKILLS
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-F05032?style=flat&logo=rapidminer&logoColor=white" alt="DataMiner" />
-
+<div>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/rapidminer/F05032" height="40" alt="DataMiner" />
 </div>
 ---
 
