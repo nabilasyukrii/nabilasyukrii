@@ -46,7 +46,6 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/rapidminer/F05032" alt="RapidMiner" height="50"/>
 </p>
 ---
 
