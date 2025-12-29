@@ -34,16 +34,20 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
 
 ---
 
-### SKILLS
+
 ### SKILLS
 
-<div>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/rapidminer/F05032" height="40" alt="DataMiner" />
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/rapidminer/F05032" alt="RapidMiner" height="50"/>
+</p>
 ---
 
 ### 📁  Projects
