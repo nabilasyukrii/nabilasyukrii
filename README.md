@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/nabilasyukrii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:emailanda@gmail.com">
+  <a href="mailto:nabilasyukri@apps.ipb.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 I am currently pursuing my **Master's in Statistics at IPB University** while working as a **Data Analyst**. I have a strong passion for academic publishing workflows and translating complex data into actionable insights.
 
-- 🔭 **Current Focus:** Longitudinal Data Analysis & Food Security Modeling.
+- 🔭 **Current Focus:** Predictive Modelling & Machine Learning.
 - 💼 **Work:** Helping researchers analyze data at **Dokter Data IPB**.
 - 🌱 **Learning:** Advanced Machine Learning algorithms & Reproducible Research.
 - 💬 **Ask me about:** R Programming, Statistical Inference, and Academic Writing.
@@ -44,13 +44,13 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
 
 ---
 
-### 📁 Featured Projects
+### 📁  Projects
 
 | Project | Description | Tech/Method |
 | :--- | :--- | :--- |
-| **Food Insecurity Forecasting** | Forecasting food insecurity status using longitudinal classification models. | `Longitudinal Data` `Forecasting` |
-| **Agreement Analysis** | Assessing rater agreement using SuperRanker and Spearman correlation. | `SuperRanker` `Statistics` |
-| **Socioeconomic Segmentation** | Visualizing SHAP values to interpret ML models for socioeconomic data. | `XGBoost` `SHAP` `Python` |
+| **[Scraping & Visualization Kalibrr](https://github.com/nabilasyukrii/Data-Visualization)** | End-to-end project: Web scraping job data from Kalibrr and visualizing employment trends. | `Python` `Web Scraping` `Data Viz` |
+| **[Dashboard Wisata Jabar](https://github.com/zhiizah/ProjectMDSkel5)** | Interactive dashboard analyzing tourism statistics and trends in West Java. | `Business Intelligence` `Dashboard` |
+| **[Analisis Klasifikasi](https://github.com/nabilasyukrii/Analisis-Klasifikasi)** | Statistical classification modeling for predictive analysis. | `Supervised Learning` `Classification` |
 
 ---
 
