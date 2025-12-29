@@ -47,6 +47,8 @@ I am currently pursuing my **Master's in Statistics at IPB University** while wo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
   &nbsp;
 </p>
+
+
 ---
 
 ### 📁  Projects
